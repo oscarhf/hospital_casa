@@ -1,2 +1,2 @@
-# hospital_casa
-Proyecto curso 
+# Repositorio proyecto IS-II
+
